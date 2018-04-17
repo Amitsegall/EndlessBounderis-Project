@@ -1,0 +1,7 @@
+ofxCv
+ofxFboBlur
+ofxFlowTools
+ofxGui
+ofxKinect
+ofxOpenCv
+ofxPS3EyeGrabber
